@@ -55,7 +55,7 @@ A Xray backend framework that can easily support many panels.
 ### 一键安装
 
 ```shell
-yum -y install git && git clone https://gitee.com/gz1903/docker_soga.git /usr/local/src/docker_V2ray && cd /usr/local/src/docker_V2ray && chmod +x docker_V2ray.sh && ./docker_V2ray.sh
+yum -y install git && git clone https://gitee.com/gz1903/docker_V2ray.git /usr/local/src/docker_V2ray && cd /usr/local/src/docker_V2ray && chmod +x docker_V2ray.sh && ./docker_V2ray.sh
 ```
 
 ### 安装流程
