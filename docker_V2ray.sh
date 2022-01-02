@@ -218,7 +218,7 @@ echo -e "\033[36m#                                                              
 echo -e "\033[36m#######################################################################\033[0m"
 
 cd /usr/local/src/XrayR-release/config
-docker-compose up -d
+/usr/local/bin/docker-compose up -d
 
 echo $?="对接已完成"
 
