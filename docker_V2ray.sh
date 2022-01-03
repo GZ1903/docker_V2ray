@@ -217,8 +217,7 @@ echo -e "\033[36m#                  正在启动  请稍等~                    
 echo -e "\033[36m#                                                                     #\033[0m"
 echo -e "\033[36m#######################################################################\033[0m"
 
-cd /usr/local/src/XrayR-release/config
-/usr/local/bin/docker-compose up -d
+cd /usr/local/src/XrayR-release/config && /usr/local/bin/docker-compose up -d
 
 echo $?="对接已完成"
 
