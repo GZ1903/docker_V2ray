@@ -4,6 +4,8 @@
 git clone https://github.com/GZ1903/docker_V2ray.git /usr/local/src/docker_V2ray && cd /usr/local/src/docker_V2ray && chmod +x docker_V2ray.sh && ./docker_V2ray.sh
 ```
 
+`若提示-bash:git，请提前安装git再执行一键脚本`
+
 ### 安装流程
 
 ![soga](https://cdn.jsdelivr.net/gh/gz1903/tu/V2ray.png)
