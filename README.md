@@ -1,7 +1,7 @@
 ### 一键安装
 
 ```shell
-git clone https://gitee.com/gz1903/docker_V2ray.git /usr/local/src/docker_V2ray && cd /usr/local/src/docker_V2ray && chmod +x docker_V2ray.sh && ./docker_V2ray.sh
+git clone https://github.com/GZ1903/docker_V2ray.git /usr/local/src/docker_V2ray && cd /usr/local/src/docker_V2ray && chmod +x docker_V2ray.sh && ./docker_V2ray.sh
 ```
 
 ### 安装流程
