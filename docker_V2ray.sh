@@ -37,7 +37,6 @@ echo -e "\033[36m#                                                              
 echo -e "\033[36m#                  正在配置防火墙  请稍等~                            #\033[0m"
 echo -e "\033[36m#                                                                     #\033[0m"
 echo -e "\033[36m#######################################################################\033[0m"
-systemctl start supervisord
 systemctl disable firewalld
 systemctl stop firewalld
 
